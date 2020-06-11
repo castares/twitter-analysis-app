@@ -1,6 +1,6 @@
 # twitter-analysis-app
 
-This is a standalone and serverless app, that helps you find people around you that migth be interested in your content. It uses NLP to compare your content with your follower's followers and provides a similarity score between 0 and 1. It builds a sqlite database, so you can connect it to your favorite Data Visualization tool.
+This is a standalone and serverless app, that helps you find people around you that migth be interested in your content. It uses NLP to compare your content with your followers' followers and provides a similarity score between 0 and 1. It builds a sqlite database, so you can connect it to your favorite Data Visualization tool.
 
 Setup instructions:
 
